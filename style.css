@@ -5,3 +5,51 @@
 }
 
 /* write all your rules below */
+
+.heading-style{
+    background-color: pink;
+     margin: 50px ;
+     border: solid 5px red;
+     width: 100vw;
+     height: 10vh;
+     padding: 10px ;
+
+
+
+}
+
+
+.hero-style{
+    background-color: aqua;
+     margin: 20px;
+     border: solid 100px aqua;
+     width: 100vw;
+     height: 50vh;
+     padding: 50px;
+
+
+
+
+
+
+}
+
+
+.main-style{
+      background-color: yellow;
+      margin: 10px   ;
+      border: solid 50px pink;
+      width: 100vw;
+      height: 25vh;
+      padding: 30px;
+
+
+
+
+
+}
+
+
+.footer-style{
+    
+}
