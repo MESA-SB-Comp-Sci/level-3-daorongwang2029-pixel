@@ -38,10 +38,10 @@
 .main-style{
       background-color: yellow;
       margin: 10px   ;
-      border: solid 50px pink;
+      border: solid 30px pink;
       width: 100vw;
-      height: 25vh;
-      padding: 30px;
+      height: 15vh;
+      padding: 75px;
 
 
 
@@ -50,6 +50,18 @@
 }
 
 
-.footer-style{
-    
+.footer-style1{
+    color:blue ;
+}
+
+.footer-style2{
+    color: green;
+}
+
+.footer-style3{
+    color: purple;
+}
+
+.footer-style4{
+    color: purple;
 }
